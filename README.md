@@ -92,7 +92,7 @@ https://v1-19.docs.kubernetes.io/docs/tasks/access-application-cluster/ingress-m
 
 ### Introduction
 Apache Spark is a general-purpose cluster in-memory computing system Provides high level APIs in Java, Scala and Python, and an optimized engine that supports general execution graphs. Provides various high level tool like Spark SQL for structured data processing, Mlib for Machine Learning and more
-
+In this project, with the help of  PySpark (which is an open-source cluster-computing framework)  we want to  implement Word Count on Apache Spark running on Kubernetes and Using PySpark to implement PageRank on Apache Spark running on Kubernetes.
 
 #### How to run ####
 <details>
