@@ -25,13 +25,8 @@ Node.js webserver that allows users to access certain student record from given 
 
 MongoDB + Python Flask Web Framework + REST API to allow users to perform standard List, Insert, Update, Delete operation to the data stored inside MongoDB
 
-#### How to run
-<details>
-<summary> Below is the document with detailed instruction</summary>
-<a herf="https://github.com/Maryam-Taherzadeh/Cloud-Computing-Infrastructure/blob/main/Kubernetes_Signature_Project/CS571-Signature%20Project-19529-Maryam-Taherzadeh.pdf">Slides</a>
   
-  
-
+ 
 
 
 #### Result
