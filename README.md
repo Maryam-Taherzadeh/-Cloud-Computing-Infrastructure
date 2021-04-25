@@ -28,12 +28,12 @@ MongoDB + Python Flask Web Framework + REST API to allow users to perform standa
  #### How to run ####
 <details>
 <summary>Below is the document with detailed instruction</summary>
-<a href="https://github.com/Maryam-Taherzadeh/Kubernetes-project/blob/main/CS571-Signature%20Project-19529-Maryam-Taherzadeh.pdf"> document</a>
+<a href="https://github.com/Maryam-Taherzadeh/Cloud-Computing-Infrastructure/blob/main/Kubernetes_Signature_Project/CS571-Signature%20Project-19529-Maryam-Taherzadeh.pdf"> document</a>
 </details>
 
 <details>
 <summary>Below is the Google slides with more details of the project</summary>
-<a href=" "> Slides</a>
+<a href="https://github.com/Maryam-Taherzadeh/Cloud-Computing-Infrastructure/blob/main/Kubernetes_Signature_Project/Cs571-Kubernetes%20Signature%20Project(Slides)-week%2012-19529-Maryam-Taherzadeh%20(1).pdf "> Slides</a>
 <summary>Below is the the link of the google slides</summary>
   https://docs.google.com/presentation/d/1JDPsf5yDboPQYzVqdQETpgJVCd7cQGHZhyfWsNVuBDo/edit#slide=id.gcc755ed197_0_2402
 </details>
