@@ -102,16 +102,11 @@ Apache Spark is a general-purpose cluster in-memory computing system Provides hi
 
 <details>
 <summary>Below is the Google slides with more details of the project</summary>
-<a href=" "> Slides</a>
+<a href="https://github.com/Maryam-Taherzadeh/Cloud-Computing-Infrastructure/blob/main/Spark%20Project_wordcount_pagerank/CS571-ApacheSpark_on%20Kubernetes_GoogleSlides-19529-Maryam-Taherazadeh.pdf..pdf "> Slides</a>
 <summary>Below is the the link of the google slides</summary>
   https://docs.google.com/presentation/d/1tI9B2_Y5JQeQSuSUhthAuFMwhqlBIVef3I_FrnS4f6Q/edit#slide=id.gcd7411e2d9_0_923
 </details>
  
- 
-
-
-
-
 #### Refrences
 
 https://www.datamechanics.co/blog-post/pros-and-cons-of-running-apache-spark-on-kubernetes
