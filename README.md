@@ -72,4 +72,16 @@ https://v1-19.docs.kubernetes.io/docs/tasks/access-application-cluster/ingress-m
 ### Introduction
 Apache Spark is a general-purpose cluster in-memory computing system Provides high level APIs in Java, Scala and Python, and an optimized engine that supports general execution graphs. Provides various high level tool like Spark SQL for structured data processing, Mlib for Machine Learning and more
 
+### How to run
 
+
+
+
+#### Refrences
+
+https://www.datamechanics.co/blog-post/pros-and-cons-of-running-apache-spark-on-kubernetes
+https://towardsdatascience.com/how-to-guide-set-up-manage-monitor-spark-on-kubernetes-with-code-examples-c5364ad3aba2
+https://www.datamechanics.co/apache-spark-on-kubernetes
+https://spark.apache.org/docs/latest/running-on-kubernetes.html
+https://npu85.npu.edu/~henry/npu/classes/master_apache_spark/kubernetes/slide/exercise_kubernetes.html
+https://npu85.npu.edu/~henry/npu/classes/master_apache_spark/kubernetes/slide/index_slide.html
