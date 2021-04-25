@@ -85,8 +85,14 @@ https://v1-19.docs.kubernetes.io/docs/tasks/access-application-cluster/ingress-m
 
 ## 2 . Apache Spark Project : Work Count + PageRank + GKE
 
+
+
+![picture alt](https://github.com/Maryam-Taherzadeh/Cloud-Computing-Infrastructure/blob/main/Spark%20Project_wordcount_pagerank/pic/Screen%20Shot%202021-04-25%20at%207.36.13%20AM.png)
+
+
 ### Introduction
 Apache Spark is a general-purpose cluster in-memory computing system Provides high level APIs in Java, Scala and Python, and an optimized engine that supports general execution graphs. Provides various high level tool like Spark SQL for structured data processing, Mlib for Machine Learning and more
+
 
 #### How to run ####
 <details>
