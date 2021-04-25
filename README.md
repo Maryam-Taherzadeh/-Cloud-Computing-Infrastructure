@@ -47,33 +47,33 @@ MongoDB + Python Flask Web Framework + REST API to allow users to perform standa
 '''
 curl cs571.project.com/studentserver/api/score?student_id=11111
 '''
-![picture alt](https://github.com/Maryam-Taherzadeh/Kubernetes-project/blob/main/pic/pic_1.png)
+![picture alt](https://github.com/Maryam-Taherzadeh/Cloud-Computing-Infrastructure/blob/main/Kubernetes_Signature_Project/pic/pic_1.png)
 
 - How to access List Of Book
 
 '''
 curl cs571.project.com/bookshelf/books
 '''
-![picture alt](https://github.com/Maryam-Taherzadeh/Kubernetes-project/blob/main/pic/pic_2.png)
+![picture alt](https://github.com/Maryam-Taherzadeh/Cloud-Computing-Infrastructure/blob/main/Kubernetes_Signature_Project/pic/pic_2.png
 
 - How to Add a Book
 '''
 curl -X POST -d "{\"book_name\": \"cloud computing\",\"book_author\": \"unkown\", \"isbn\": \"123456\" }" http://cs571.project.com/bookshelf/book
 ''''
-![picture alt](https://github.com/Maryam-Taherzadeh/Kubernetes-project/blob/main/pic/pic_3.png)
+![picture alt](https://github.com/Maryam-Taherzadeh/Cloud-Computing-Infrastructure/blob/main/Kubernetes_Signature_Project/pic/pic_3.png)
 
 - How to Update a Book
 '''
 curl -X PUT -d "{\"book_name\": \"123\",\"book_author\": \"test\", \"isbn\": \"123updated\" }" http://cs571.project.com/bookshelf/book/id
 ''''
-![picture alt](https://github.com/Maryam-Taherzadeh/Kubernetes-project/blob/main/pic/pic_4.png)
+![picture alt](https://github.com/Maryam-Taherzadeh/Cloud-Computing-Infrastructure/blob/main/Kubernetes_Signature_Project/pic/pic_4.png)
 
 
 - How to Delete a Book
 '''
 Delete a book curl -X DELETE cs571.project.com/bookshelf/book/id
 '''
-![picture alt](https://github.com/Maryam-Taherzadeh/Kubernetes-project/blob/main/pic/pic_5.png)
+![picture alt](https://github.com/Maryam-Taherzadeh/Cloud-Computing-Infrastructure/blob/main/Kubernetes_Signature_Project/pic/pic_5.png)
 
 
 
