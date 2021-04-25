@@ -67,4 +67,9 @@ https://npu85.npu.edu/~henry/npu/classes/capstone/rest/slide/index_slide.html
 https://npu85.npu.edu/~henry/npu/classes/cloud_computing/mongodb/slide/index_slide.html
 https://v1-19.docs.kubernetes.io/docs/tasks/access-application-cluster/ingress-minikube/
 
-2 . Apache Spark Project : Work Count + PageRank + GKE
+## 2 . Apache Spark Project : Work Count + PageRank + GKE
+
+### Introduction
+Apache Spark is a general-purpose cluster in-memory computing system Provides high level APIs in Java, Scala and Python, and an optimized engine that supports general execution graphs. Provides various high level tool like Spark SQL for structured data processing, Mlib for Machine Learning and more
+
+
