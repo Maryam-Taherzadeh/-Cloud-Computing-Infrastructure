@@ -1,5 +1,5 @@
-# kubernetes_project !
-
+# kubernetes_project 
+## 1 . Signature Project : MongoDB + Python Flask Web Framework + REST API + GKE
 Kubernetes, K8s, is an open-source system for automating deployment, scaling, and management of containerized applications.
 
 ## Introduction
@@ -67,4 +67,4 @@ https://npu85.npu.edu/~henry/npu/classes/capstone/rest/slide/index_slide.html
 https://npu85.npu.edu/~henry/npu/classes/cloud_computing/mongodb/slide/index_slide.html
 https://v1-19.docs.kubernetes.io/docs/tasks/access-application-cluster/ingress-minikube/
 
-
+2 . Apache Spark Project : Work Count + PageRank + GKE
